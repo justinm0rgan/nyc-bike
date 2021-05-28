@@ -130,3 +130,9 @@ dmypy.json
 
 # Large data source files
 ./data
+
+# hide app token
+./src
+
+# hide .DS_store
+.DS_Store
