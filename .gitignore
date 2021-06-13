@@ -130,6 +130,7 @@ dmypy.json
 
 # Large data source files
 ./data
+./coronavirus-data
 
 # hide app token
 ./src
